@@ -28,10 +28,9 @@
 
 - The total summary shows how the variance of the coils (62.29 PSI) is within the 100 PSI requirement.
 
-- The lot summary shows how Lots 1 (0.98) and 2 (7.47) are within the 100 PSI variance. However, Lot 3 has a variance of 170.29, which implies that this lot is causing the variance at the full lot level. 
+- The lot summary shows how Lots 1 (0.98) and 2 (7.47) are within the 100 PSI variance. However, Lot 3 has a variance of 170.29, which implies that this Lot is causing the variance at the full lot level. 
 
 - Overall, the manufacturing data meets the design specification for Lots 1 and 2. However, Lot 3 has some problems and I would suggest that the manufacturing team look for ways to improve this Lot's efficiency.
-
 
 
 ### T-Test on Suspension Coils
@@ -39,8 +38,11 @@
 <img width="470" alt="t_tests" src="https://user-images.githubusercontent.com/111243284/206785112-6464b67d-0044-4dde-8ec5-d7ae5c024288.png">
 
 
-- Based on the t-test, 
+- Based on the t-test across all manufacturing lots, the sample mean (1498.78) is not significantly different than the population mean (1500). Additionally, the p-value is 0.06 which is higher than the significance level of 0.05.
 
+- The t-tests for the individual lots show that Lots 1 and 2 at 1500 and 1500.2 are not different significantly different than the population mean (1500), and they have p-values of 1 and 0.61, which means the null hypothesis cannot be rejected. 
+
+- However, Lot 3 has a sample mean of 1496.14 and a p-value of 0.04, which is lower than the significance level of 0.05. This implies that we should reject the null hypothesis.
 
 
 ### Study Design: MechaCar vs Competition
@@ -48,7 +50,6 @@
 
 
 
-## Summary
 
 
 
