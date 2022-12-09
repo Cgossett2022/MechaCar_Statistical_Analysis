@@ -16,7 +16,7 @@
 - The slope of the linear model is not zero because the p-value (5.35e-11) is much smaller than the significance level of 0.05%.
 
 - The linear model effectively predicts mpg of MechaCar prototypes because the R-squared value is 0.7149, which means roughly 71% of all mpg predictions can be determined by the model. 
-- 
+
 
 ### Summary Statistics on Suspension Coils
 
