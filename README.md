@@ -44,6 +44,7 @@
 
 - However, Lot 3 has a sample mean of 1496.14 and a p-value of 0.04, which is lower than the significance level of 0.05. This implies that we should reject the null hypothesis.
 
+## Summary
 
 ### Study Design: MechaCar vs Competition
 
