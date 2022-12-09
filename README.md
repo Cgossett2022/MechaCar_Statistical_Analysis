@@ -13,10 +13,9 @@
 
 - The vehicle length (p-value of 2.60e-12) and the ground clearance (p-value of 5.21e-08) provided a non-random amount of variance to the mpg values.
 
-- The
+- The slope of the linear model is not zero because the sl
 
-- The
-
+- The linear model effectively predicts mpg because
 
 
 
@@ -27,9 +26,9 @@
 
 <img width="475" alt="lot_summary_df" src="https://user-images.githubusercontent.com/111243284/206785024-c09bfba3-c491-48a0-8ec1-7284f3b714f3.png">
 
-- t
+- The total summary
 
-- t
+- The lot summary
 
 
 
