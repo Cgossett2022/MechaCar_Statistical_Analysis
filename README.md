@@ -11,7 +11,7 @@
 
 <img width="805" alt="Deliverable 1" src="https://user-images.githubusercontent.com/111243284/206784611-8ad5abb6-e58a-4663-a036-8473ddddc24e.png">
 
-- The
+- The vehicle length (p-value of 2.60e-12) and the ground clearance (p-value of 5.21e-08) provided a non-random amount of variance to the mpg values.
 
 - The
 
