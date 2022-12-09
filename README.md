@@ -24,9 +24,6 @@
 
 <img width="426" alt="total_summary_df" src="https://user-images.githubusercontent.com/111243284/206785008-960da93e-d491-4766-82c5-de01d7f7bbef.png">
 
-- t
-
-- t
 
 <img width="475" alt="lot_summary_df" src="https://user-images.githubusercontent.com/111243284/206785024-c09bfba3-c491-48a0-8ec1-7284f3b714f3.png">
 
