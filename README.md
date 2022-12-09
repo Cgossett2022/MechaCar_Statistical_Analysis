@@ -13,11 +13,10 @@
 
 - The vehicle length (p-value of 2.60e-12) and the ground clearance (p-value of 5.21e-08) provided a non-random amount of variance to the mpg values.
 
-- The slope of the linear model is not zero because the sl
+- The slope of the linear model is not zero because the p-value (5.35e-11) is much smaller than the significance level of 0.05%.
 
-- The linear model effectively predicts mpg because
-
-
+- The linear model effectively predicts mpg of MechaCar prototypes because the R-squared value is 0.7149, which means roughly 71% of all mpg predictions can be determined by the model. 
+- 
 
 ### Summary Statistics on Suspension Coils
 
@@ -26,22 +25,25 @@
 
 <img width="475" alt="lot_summary_df" src="https://user-images.githubusercontent.com/111243284/206785024-c09bfba3-c491-48a0-8ec1-7284f3b714f3.png">
 
-- The total summary
 
-- The lot summary
+- The total summary shows how the variance of the coils (62.29 PSI) is within the 100 PSI requirement.
+
+- The lot summary shows how Lots 1 (0.98) and 2 (7.47) are within the 100 PSI variance. However, Lot 3 has a variance of 170.29, which implies that this lot is causing the variance at the full lot level. 
+
+- Overall, the manufacturing data meets the design specification for Lots 1 and 2. However, Lot 3 has some problems and I would suggest that the manufacturing team look for ways to improve this Lot's efficiency.
 
 
 
-### Part 3: T-Test on Suspension Coils
+### T-Test on Suspension Coils
 
 <img width="470" alt="t_tests" src="https://user-images.githubusercontent.com/111243284/206785112-6464b67d-0044-4dde-8ec5-d7ae5c024288.png">
 
 
-- t
+- Based on the t-test, 
 
 
 
-### Design a Study Comparing the MechaCar to the Competition
+### Study Design: MechaCar vs Competition
 
 
 
