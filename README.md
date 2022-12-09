@@ -20,17 +20,32 @@
 
 
 
-### Part 2: Summary Statistics on Suspension Coils
+### Summary Statistics on Suspension Coils
 
+<img width="426" alt="total_summary_df" src="https://user-images.githubusercontent.com/111243284/206785008-960da93e-d491-4766-82c5-de01d7f7bbef.png">
+
+- t
+
+- t
+
+<img width="475" alt="lot_summary_df" src="https://user-images.githubusercontent.com/111243284/206785024-c09bfba3-c491-48a0-8ec1-7284f3b714f3.png">
+
+- t
+
+- t
 
 
 
 ### Part 3: T-Test on Suspension Coils
 
+<img width="470" alt="t_tests" src="https://user-images.githubusercontent.com/111243284/206785112-6464b67d-0044-4dde-8ec5-d7ae5c024288.png">
+
+
+- t
 
 
 
-### Part 4: Design a Study Comparing the MechaCar to the Competition
+### Design a Study Comparing the MechaCar to the Competition
 
 
 
