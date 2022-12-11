@@ -61,14 +61,14 @@
 
 #### Statistical Test
 
-- I would use a multiple linear regression to understand what features have the highest correlation with the Price and how the Price could fall more in line with it competitors.
+- I would use a multiple linear regression test to understand what features have the highest impacts on the Price. This would also help me adjust the Price to fall more in line with the competition if it doesn't already. 
 
 #### Data Needed
 
 - Prices for the MechaCar
 - Prices for Competitors
-- List of features for the MechaCar
-- List of features for Competitors
+- Features for the MechaCar
+- Features for Competitors
 
 
 
