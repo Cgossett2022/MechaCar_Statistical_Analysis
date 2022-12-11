@@ -48,8 +48,27 @@
 
 ### Study Design: MechaCar vs Competition
 
-- 
+- For this section, I created my own test that would evaluate the MechaCar against its competitors. When buying a car, Consumers are interested in many factors such as: Cost, Fuel Efficiency, Safety Ratings, Maintenance and more. I believe Cost is one of the more interesting metrics and I would want to know that I'm getting my money's worth out of the car.
 
+#### Metric to Test
+
+- For this test, I would like to analyze how the MechaCar's price compares to its competitors. 
+
+#### Null Hypothesis or Alternative Hypothesis
+
+- Null Hypothesis: The MechaCar's prices are similar to other cars that have the same features.
+- Alternative Hypothesis: The MechaCar's prices are not similar to other cars that have the same features.
+
+#### Statistical Test
+
+- I would use a multiple linear regression to understand what features have the highest correlation with the Price and how the Price could fall more in line with it competitors.
+
+#### Data Needed
+
+- Prices for the MechaCar
+- Prices for Competitors
+- List of features for the MechaCar
+- List of features for Competitors
 
 
 
